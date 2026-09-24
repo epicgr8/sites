@@ -1,0 +1,14 @@
+IGFox is an Instagram carousel maker for iPhone. Palettes and fonts are already on the slide. You change the text, photos, and look.
+
+The editor is on the phone. Open a slide, swap the copy, pick a palette and a font, fit the canvas to a 1080×1440 carousel or a 1080×1080 post. You do not need a separate design file: the composition is already there, you drop in the content.
+
+Color schemes and character fonts are chosen for the feed, so the first slide has a clear voice. Apply the look to every slide in one tap. Save to the IGFox album in Photos, or share. No watermark.
+
+People use it for beauty and skincare, fitness, finance, coaches, food, and travel.
+
+IGFox is for you if:
+• you run a blog and want carousels people save and swipe through to the end
+• you handle several clients and need a distinct look for each
+• there is no designer on staff, but the feed still needs to look considered
+
+Handmade carousels stay free: unlimited projects, up to 15 slides, both canvas sizes, text markup, photos, and watermark-free export.

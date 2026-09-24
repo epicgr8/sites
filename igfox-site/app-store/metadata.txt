@@ -1,0 +1,11 @@
+EN subtitle (30 characters max):
+Instagram Carousel Maker
+
+RU subtitle (30 characters max):
+Карусели для Instagram
+
+EN keywords (no spaces after commas, do not repeat title/subtitle words):
+slides,post,palette,font,stories,feed,creator,blog,smm,photo,export
+
+RU keywords:
+слайды,пост,палитра,шрифт,лента,блог,фото,экспорт
