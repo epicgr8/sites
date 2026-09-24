@@ -1,9 +1,7 @@
 (function () {
   const root = document.documentElement;
   const stored = localStorage.getItem("igfox-lang");
-  const lang = stored === "en" || stored === "ru"
-    ? stored
-    : (navigator.language || "").toLowerCase().startsWith("ru") ? "ru" : "en";
+  const lang = stored === "ru" ? "ru" : "en";
 
   function setLang(next) {
     root.lang = next;
